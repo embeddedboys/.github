@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We make good Full stack Sofeware/Hardware Project and OpenSource.
+**We** make good "full stack" **Software & Hardware** project and **OpenSource**.
 
 <!--
 
