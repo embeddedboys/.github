@@ -4,7 +4,9 @@ Welcome to embeddedboys.org
 
 People here, they make good "Full Stack" embedded system projects here and do **OpenSource**.
 
-Something big, something small. Anyway, just do whatever you want to do.
+Something big, something small.
+
+Anyway, just do whatever you want to do.
 
 Cheers,
 
