@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, guys
 
-**We** make good "full stack" **Software & Hardware** project and we do **OpenSource**.
+We make good "full stack" software & hardware project and we do **OpenSource**.
 
 <!--
 
