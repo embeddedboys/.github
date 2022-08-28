@@ -1,6 +1,13 @@
 ## Hi, guys
 
-We make good "full stack" software & hardware project and we do **OpenSource**.
+Welcome to embeddedboys.org
+
+People here, they make good "Full Stack" embedded system projects here and do **OpenSource**.
+something big, something small, anyway, just do whatever you want to do.
+
+Cheers,
+
+The offical site at [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
 <!--
 
