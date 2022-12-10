@@ -2,11 +2,11 @@
 
 Welcome to embeddedboys.org
 
-People here, they make good "Full Stack" embedded system projects here and do **OpenSource**.
+People here, they made good "Full Stack" embedded system projects and do **OpenSource**.
 
-Something big, something small.
+These project usually came up with a little idea.
 
-Anyway, just do it.
+Hope you guys have fun with this.
 
 Cheers,
 
