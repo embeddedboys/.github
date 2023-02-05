@@ -1,16 +1,22 @@
-## Hi, guys
+<h1 align="center">
+<span>Welcome to embeddedboys.org!<span>
+</h1>
 
-Welcome to embeddedboys.org
+<div align="center">
 
-People here, they made good "Full Stack" embedded system projects and do **OpenSource**.
+Here peoples who loved DIY.
 
-These project usually came up with a little idea.
+If you have a meanful idea, don't waste it.
 
-Hope you guys have fun with this.
+let's make it real.
 
 Cheers,
 
-The offical site at [https://embeddedboys.github.io](https://embeddedboys.github.io)
+The offical site is [https://embeddedboys.github.io](https://embeddedboys.github.io)
+
+
+Hope you guys have fun with these.
+</div>
 
 <!--
 
