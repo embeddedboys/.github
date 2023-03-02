@@ -4,18 +4,18 @@
 
 <div align="center">
 
-Here peoples who loved DIY.
+Here are people who love DIY.
 
-If you have a meanful idea, don't waste it.
+If you have a meaningful idea, don't waste it.
 
 let's make it real.
+
+I hope you guys have fun with these.
 
 Cheers,
 
 The offical site is [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
-
-Hope you guys have fun with these.
 </div>
 
 <!--
