@@ -1,13 +1,12 @@
-<div align="center" style="background-image: url(assets/background.png);background-size: cover; color:black; font-weight:bold;">
+<div align="center">
 </br>
 <h1 align="center">
 <span>Welcome to embeddedboys.org!<span>
 </h1>
 
-</br></br></br></br></br>
 <img src="assets/rick.png" width="70%">
 
-<div align="center" >
+<div align="center" style="background-image: url(assets/background.png);background-size: cover; color:black; font-weight:bold;" >
 
 Here are people who love DIY.
 
