@@ -1,8 +1,13 @@
+<div align="center" style="background-image: url(assets/background.png);background-size: cover; color:black; font-weight:bold;">
+</br>
 <h1 align="center">
 <span>Welcome to embeddedboys.org!<span>
 </h1>
 
-<div align="center">
+</br></br></br></br></br>
+<img src="assets/rick.png" width="70%">
+
+<div align="center" >
 
 Here are people who love DIY.
 
@@ -14,10 +19,11 @@ I hope you guys have fun with these.
 
 Cheers,
 
-The offical site is [https://embeddedboys.github.io](https://embeddedboys.github.io)
+The offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
 </div>
 
+</div>
 <!--
 
 **Here are some ideas to get you started:**
