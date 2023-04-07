@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-weight:bold;">
 </br>
 <h1 align="center">
 <span>Welcome to embeddedboys.org!<span>
@@ -6,19 +6,21 @@
 
 <img src="assets/rick.png" width="70%">
 
-<div align="center" style="background-image: url(assets/background.png);background-size: cover; color:black; font-weight:bold;" >
+<div align="center">
 
 Here are people who love DIY.
 
-If you have a meaningful idea, don't waste it.
+If you have a cool idea, never waste it.
 
-let's make it real.
+let's make it real or build it up.
+
+The repo [`Gallery`](https://github.com/embeddedboys/Gallery) lists the projects we have done.
 
 I hope you guys have fun with these.
 
 Cheers,
 
-The offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
+Offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
 </div>
 
