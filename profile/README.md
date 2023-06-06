@@ -10,17 +10,18 @@
 
 Here are people who love DIY.
 
-If you have a cool idea, never waste it.
+If you have any cool idea, then shouldn't waste it.
 
-let's make it real or build it up.
+maybe we can bring it to the real.
 
-The repo [`Gallery`](https://github.com/embeddedboys/Gallery) lists the projects we have done.
+[`Gallery`](https://github.com/embeddedboys/Gallery) list projects we have done before or doing.
 
-I hope you guys have fun with these.
+Hope you guys have fun with these.
 
 Cheers,
+iotah
 
-Offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
+offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
 </div>
 
