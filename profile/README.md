@@ -4,15 +4,13 @@
 <span>Welcome to embeddedboys.org!<span>
 </h1>
 
-<img src="assets/rick.png" width="70%">
-
 <div align="center">
 
 Here are people who love DIY.
 
-If you have any cool idea, then shouldn't waste it.
+If you have any cool idea, join us.
 
-maybe we can bring it to the real.
+We are not only build things, also we are creating history.
 
 [`Gallery`](https://github.com/embeddedboys/Gallery) list projects we have done before or doing.
 
