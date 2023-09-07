@@ -1,25 +1,19 @@
 <div align="center" style="font-weight:bold;">
 </br>
-<h1 align="center">
-<span>Welcome to embeddedboys.org!<span>
-</h1>
+<h2 align="center">
+<span>Welcome to embeddedboys.org<span>
+</h2>
 
+> # Stay Creative!
 <div align="center">
 
-Here are people who love DIY.
+For more infomation, take a look at [`Gallery`](https://github.com/embeddedboys/Gallery) </br>
+Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/)
 
-If you have any cool idea, join us.
+<img alt="Static Badge" src="https://img.shields.io/badge/🍿-embeddedboys-blue">
 
-We are not only build things, also we are creating history.
-
-[`Gallery`](https://github.com/embeddedboys/Gallery) list projects we have done before or doing.
-
-Hope you guys have fun with these.
-
-Cheers,
+Cheers,</br>
 iotah
-
-offical site will always at [https://embeddedboys.github.io](https://embeddedboys.github.io)
 
 </div>
 
