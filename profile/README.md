@@ -10,10 +10,10 @@
 For more infomation, take a look at [`Gallery`](https://github.com/embeddedboys/Gallery) </br>
 Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/🍿-embeddedboys-blue">
-
 Cheers,</br>
 iotah
+
+<img alt="Static Badge" src="https://img.shields.io/badge/🍺-embeddedboys-blue">
 
 </div>
 
