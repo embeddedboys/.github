@@ -7,8 +7,8 @@
 > # Stay Creative!
 <div align="center">
 
-For more infomation, take a look at [`Gallery`](https://github.com/embeddedboys/Gallery) </br>
-Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/)
+Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/) </br></br>
+[`Gallery`](https://github.com/embeddedboys/Gallery) </br>
 
 Cheers,</br>
 iotah
