@@ -8,7 +8,7 @@
 <div align="center">
 
 Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/) </br></br>
-[`Gallery`](https://github.com/embeddedboys/Gallery) </br>
+[`Gallery`](https://embeddedboys.github.io/Gallery/) </br>
 
 Cheers,</br>
 iotah
