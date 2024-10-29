@@ -10,6 +10,8 @@
 Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/) </br></br>
 [`Gallery`](https://embeddedboys.github.io/Gallery/) </br>
 
+Happy hacking!
+
 Cheers,</br>
 iotah
 
