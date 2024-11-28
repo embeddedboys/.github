@@ -1,21 +1,22 @@
 <div align="center" style="font-weight:bold;">
 </br>
-<h2 align="center">
-<span>Welcome to embeddedboys.org<span>
-</h2>
-
+  
 > # Stay Creative!
 <div align="center">
 
-Our site will always at [embeddedboys.github.io/](https://embeddedboys.github.io/) </br></br>
-[`Gallery`](https://embeddedboys.github.io/Gallery/) </br>
+EmbeddedBoys is an open-source organization dedicated to embedded software and hardware development.
+
+Our goal is to create efficient and user-friendly DIY open-source projects for educational purposes.
+
+For projects unless otherwise specified, the default license adheres to the MIT License.
 
 Happy hacking!
 
-Cheers,</br>
+<img alt="Static Badge" src="https://img.shields.io/badge/🍺-Cheers,-blue"></br>
 iotah
 
-<img alt="Static Badge" src="https://img.shields.io/badge/🍺-embeddedboys-blue">
+[embeddedboys.github.io/](https://embeddedboys.github.io/)
+[`Gallery`](https://embeddedboys.github.io/Gallery/) </br>
 
 </div>
 
