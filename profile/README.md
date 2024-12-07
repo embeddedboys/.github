@@ -13,7 +13,7 @@ For projects unless otherwise specified, the default license adheres to the MIT 
 Happy hacking!
 
 <img alt="Static Badge" src="https://img.shields.io/badge/🍺-Cheers,-blue"></br>
-iotah
+embeddedboys
 
 [embeddedboys.github.io/](https://embeddedboys.github.io/)
 [`Gallery`](https://embeddedboys.github.io/Gallery/) </br>
